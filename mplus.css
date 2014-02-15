@@ -1,0 +1,9 @@
+@font-face
+{
+  font-family: mplus;
+  src: url('/wp-content/plugins/webfont-mplus/mplus-1m-regular.woff');
+}
+h1,h2,h3,h4,h5,h6,p,div,li
+{
+  font-family: mplus !important; 
+}
